@@ -9,19 +9,19 @@
 * 變更主題顏色
 
 **DEMO**<br>
-* 主頁面
-![GITHUB]( https://github.com/Gougon-Side-Project/StickyNote/blob/master/demo/1.jpg "主頁面")
-* 設定夜間模式
-![GITHUB]( https://github.com/Gougon-Side-Project/StickyNote/blob/master/demo/2.jpg "設定夜間模式")
-* 夜間模式
-![GITHUB]( https://github.com/Gougon-Side-Project/StickyNote/blob/master/demo/3.jpg "夜間模式")
-* Side bar
-![GITHUB]( https://github.com/Gougon-Side-Project/StickyNote/blob/master/demo/7.jpg "Side bar)")
-* 新增記事
-![GITHUB]( https://github.com/Gougon-Side-Project/StickyNote/blob/master/demo/9.jpg "新增記事")
-* Side bar(增加了新增的記事)
-![GITHUB]( https://github.com/Gougon-Side-Project/StickyNote/blob/master/demo/11.jpg "Side bar(增加了新增的記事)")
-* 刪除
-![GITHUB]( https://github.com/Gougon-Side-Project/StickyNote/blob/master/demo/12.jpg "刪除")
-* 刪除完成
-![GITHUB]( https://github.com/Gougon-Side-Project/StickyNote/blob/master/demo/13.jpg "刪除完成")
+* 主頁面<br>
+<img src="https://github.com/Gougon-Side-Project/StickyNote/blob/master/demo/1.jpg" width="30%" height="30%"></img>
+* 設定夜間模式<br>
+<img src="https://github.com/Gougon-Side-Project/StickyNote/blob/master/demo/2.jpg" width="30%" height="30%"></img>
+* 夜間模式<br>
+<img src="https://github.com/Gougon-Side-Project/StickyNote/blob/master/demo/3.jpg" width="30%" height="30%"></img>
+* Side bar<br>
+<img src="https://github.com/Gougon-Side-Project/StickyNote/blob/master/demo/7.jpg" width="30%" height="30%"></img>
+* 新增記事<br>
+<img src="https://github.com/Gougon-Side-Project/StickyNote/blob/master/demo/9.jpg" width="30%" height="30%"></img>
+* Side bar(增加了新增的記事)<br>
+<img src="https://github.com/Gougon-Side-Project/StickyNote/blob/master/demo/11.jpg" width="30%" height="30%"></img>
+* 刪除<br>
+<img src="https://github.com/Gougon-Side-Project/StickyNote/blob/master/demo/12.jpg" width="30%" height="30%"></img>
+* 刪除完成<br>
+<img src="https://github.com/Gougon-Side-Project/StickyNote/blob/master/demo/13.jpg" width="30%" height="30%"></img>
